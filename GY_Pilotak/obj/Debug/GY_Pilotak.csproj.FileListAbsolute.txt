@@ -1,0 +1,7 @@
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\bin\Debug\GY_Pilotak.exe.config
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\bin\Debug\GY_Pilotak.exe
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\bin\Debug\GY_Pilotak.pdb
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\obj\Debug\GY_Pilotak.csprojAssemblyReference.cache
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\obj\Debug\GY_Pilotak.csproj.CoreCompileInputs.cache
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\obj\Debug\GY_Pilotak.exe
+C:\Users\Andor\source\repos\GY_Pilotak\GY_Pilotak\obj\Debug\GY_Pilotak.pdb
